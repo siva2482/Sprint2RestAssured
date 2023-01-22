@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-01-18T19:37:31 CST" name="Default suite" finished-at="2023-01-18T19:37:35 CST" duration-ms="3777">
+  <suite started-at="2023-01-22T16:17:38 CST" name="Default suite" finished-at="2023-01-22T16:17:42 CST" duration-ms="3624">
     <groups>
     </groups>
-    <test started-at="2023-01-18T19:37:31 CST" name="Default test" finished-at="2023-01-18T19:37:35 CST" duration-ms="3777">
-      <class name="Sprint2restAssure.TC01_get">
-        <test-method signature="run()[pri:0, instance:Sprint2restAssure.TC01_get@63355449]" started-at="2023-01-18T19:37:31 CST" name="run" finished-at="2023-01-18T19:37:34 CST" duration-ms="3251" status="PASS">
+    <test started-at="2023-01-22T16:17:38 CST" name="Default test" finished-at="2023-01-22T16:17:42 CST" duration-ms="3624">
+      <class name="Sprint2restAssure.TC03_delete">
+        <test-method signature="TC03_Delete()[pri:0, instance:Sprint2restAssure.TC03_delete@7e0b85f9]" started-at="2023-01-22T16:17:38 CST" name="TC03_Delete" finished-at="2023-01-22T16:17:42 CST" duration-ms="3579" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- run -->
-        <test-method signature="run2()[pri:0, instance:Sprint2restAssure.TC01_get@63355449]" started-at="2023-01-18T19:37:34 CST" name="run2" finished-at="2023-01-18T19:37:35 CST" duration-ms="491" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- run2 -->
-      </class> <!-- Sprint2restAssure.TC01_get -->
+        </test-method> <!-- TC03_Delete -->
+      </class> <!-- Sprint2restAssure.TC03_delete -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
